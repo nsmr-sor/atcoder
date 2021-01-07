@@ -1,4 +1,3 @@
 # atcoder
 
-[AtCoder](http://atcoder.jp)  
-Atcoderの練習用
+Atcoderの練習記録用
